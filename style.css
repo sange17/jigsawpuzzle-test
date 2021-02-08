@@ -1,0 +1,8 @@
+#div1, #div2 {
+    float: left;
+    width: 85px;
+    height: 85px;
+    margin: 35px;
+    padding: 10px;
+    border: 1px solid black;
+}
